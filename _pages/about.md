@@ -14,8 +14,10 @@ I am currently a full-time researcher at NEC Laboratories America Inc., working 
 + **Open-world Representation Learning (ORL)**: Moving beyond OOD detection, the ORL problem further requires models to learn the hidden classes within OOD samples, in addition to the known classes.
 + **Interpretability**: We aim to build an interpretable machine learning system, particularly in visualizing and quantitating the model’s inference mechanism or even constructing one inherently sparse, simulatable, modular, and thus, interpretable.
 
-News
-======
+See more publications [here](https://sunyiyou.github.io/publications/)!
+
+## News
+
 + [8/14/2023] Joined NEC Laboratories America Inc. as a full-time researcher.
 + [7/19/2023] Defended my thesis “*Detecting and Learning Out-of-Distribution Data in the Open world: Algorithm and Theory*”. Finally Dr. Sun!
 + [4/24/2023] One first-authored conference paper “*[When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis](https://arxiv.org/abs/2308.05017)*” is accepted by ICML 2023.

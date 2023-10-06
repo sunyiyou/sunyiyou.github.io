@@ -7,6 +7,35 @@ author_profile: true
 
 You can also find articles on my <a href="https://scholar.google.com/citations?user=IKqlQo4AAAAJ&hl=en">Google Scholar profile</a>.
 
+
+
+-----
+
+<div class="" style="">
+  <b>A Graph-Theoretic Framework for Understanding Open-World Representation Learning</b><br>
+  <u>Yiyou Sun</u>, Zhenmei Shi, Yixuan Li <br>
+   <i>NeurIPS 2023</i> <b>(Spotlight)</b><br>
+   [<a href="https://openreview.net/pdf?id=ZITOHWeAy7">Paper</a>]
+   [<a href="https://github.com/deeplearning-wisc/SORL">Code</a>]
+   [<a href="https://openreview.net/forum?id=ZITOHWeAy7">OpenReview</a>]
+   <!-- [<a href="https://www.youtube.com/watch?v=21_P-Qrq7q4">Video</a>]  -->
+</div>
+
+-----
+
+
+-----
+
+<div class="" style="">
+  <b>Dream the Impossible: Outlier Imagination with Diffusion Models</b><br>
+  Xuefeng Du, <u>Yiyou Sun</u>, Xiaojin Zhu, Yixuan Li <br>
+   <i>NeurIPS 2023</i><br>
+   [<a href="https://arxiv.org/pdf/2309.13415">Paper</a>]
+   [<a href="https://github.com/deeplearning-wisc/dream-ood">Code</a>]
+</div>
+
+-----
+
 -----
 
 <div class="" style="">

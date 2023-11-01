@@ -17,7 +17,7 @@ I am currently a full-time researcher at NEC Laboratories America Inc., working 
 See more publications [here](https://sunyiyou.github.io/publications/)!
 
 ## News
-+ [9/21/2023] Two papers accetped to NeurIPS 2023. One is spotlighted. See you in New Orleans!
++ [9/21/2023] Two papers accepted to NeurIPS 2023. One is spotlighted. See you in New Orleans!
 + [8/14/2023] Joined NEC Laboratories America Inc. as a full-time researcher.
 + [7/19/2023] Defended my thesis “*Detecting and Learning Out-of-Distribution Data in the Open world: Algorithm and Theory*”. Finally Dr. Sun!
 + [4/24/2023] One first-authored conference paper “*[When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis](https://arxiv.org/abs/2308.05017)*” is accepted by ICML 2023.

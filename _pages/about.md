@@ -14,7 +14,7 @@ I am currently a full-time researcher at NEC Laboratories America Inc., working 
 + **Open-world Representation Learning (ORL)**: Moving beyond OOD detection, the ORL problem further requires models to learn the hidden classes within OOD samples, in addition to the known classes.
 + **Interpretability**: We aim to build an interpretable machine learning system, particularly in visualizing and quantitating the model’s inference mechanism or even constructing one inherently sparse, simulatable, modular, and thus, interpretable.
 
-See more publications [here](https://sunyiyou.github.io/publications/)!
+See more in my [CV] (https://sunyiyou.github.io/files/CV.pdf) and publications [here](https://sunyiyou.github.io/publications/)!
 
 ## News
 + [9/21/2023] Two papers accepted to NeurIPS 2023. One is spotlighted. See you in New Orleans!

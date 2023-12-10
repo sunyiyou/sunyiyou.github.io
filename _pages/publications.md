@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find articles on my <a href="https://scholar.google.com/citations?user=IKqlQo4AAAAJ&hl=en">Google Scholar profile</a>.
 
-
+## (Co)first-authored Publications
 
 -----
 
@@ -24,19 +24,18 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
 -----
 
 
------
-
 <div class="" style="">
-  <b>Dream the Impossible: Outlier Imagination with Diffusion Models</b><br>
-  Xuefeng Du, <u>Yiyou Sun</u>, Xiaojin Zhu, Yixuan Li <br>
-   <i>NeurIPS 2023</i><br>
-   [<a href="https://arxiv.org/pdf/2309.13415">Paper</a>]
-   [<a href="https://github.com/deeplearning-wisc/dream-ood">Code</a>]
+  <b>A Graph-Theoretic Framework for Understanding Open-World Representation Learning</b><br>
+  <u>Yiyou Sun</u>, Zhenmei Shi, Yixuan Li <br>
+   <i>NeurIPS 2023</i> <b>(Spotlight)</b><br>
+   [<a href="https://openreview.net/pdf?id=ZITOHWeAy7">Paper</a>]
+   [<a href="https://github.com/deeplearning-wisc/SORL">Code</a>]
+   [<a href="https://openreview.net/forum?id=ZITOHWeAy7">OpenReview</a>]
+   <!-- [<a href="https://www.youtube.com/watch?v=21_P-Qrq7q4">Video</a>]  -->
 </div>
 
 -----
 
------
 
 <div class="" style="">
   <b>When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis</b><br>
@@ -56,16 +55,6 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
        <i>CVPR 2023</i><br>
        [<a href="http://arxiv.org/abs/2303.13662">arXiv</a>]
        [<a href="https://github.com/sunyiyou/SAFAS">Code</a>]
-</div>
-
------
-
-<div class="media-body">
-      <b>How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?</b><br>
-      Yifei Ming, <u>Yiyou Sun</u>, Ousmane Dia, Yixuan (Sharon) Li<br>
-       <i>ICLR 2023</i><br>
-       [<a href="https://arxiv.org/abs/2203.04450">arXiv</a>]
-       [<a href="https://openreview.net/forum?id=aEFaE0W5pAd">OpenReview</a>]
 </div>
 
 -----
@@ -106,27 +95,6 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
 
 -----
 
-<div class="media-body">
-          <b>Delving into OOD Detection with Vision-Language Representations</b><br>
-          Yifei Ming, Ziyang Cai, Jiuxiang Gu, <u>Yiyou Sun</u>, Wei Li, Yixuan (Sharon) Li<br>
-           <i>NeurIPS 2022</i><br>[<a href="https://openreview.net/pdf?id=KnCS9390Va">Paper</a>]
-    </div>
-
-
------
-
-
-<div class="media-body">
-          <b>OpenOOD: Benchmarking Generalized
-Out-of-Distribution Detection</b><br>
-          Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, <u>Yiyou Sun</u>, Xuefeng Du, Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan (Sharon) Li, Ziwei Liu<br>
-           <i>NeurIPS 2022 (Datasets and Benchmarks Track)</i><br>
-           [<a href="https://openreview.net/pdf?id=gT6j4_tskUt">Paper</a>]
-           [<a href="https://github.com/Jingkang50/OpenOOD">Code</a>]
-    </div>
-
-
-------
 
 <div class="media-body">
           <b>ReAct: Out-of-distribution Detection With Rectified Activations</b><br>
@@ -164,6 +132,64 @@ Out-of-Distribution Detection</b><br>
     </div>
 
 -----
+
+
+<div class="" style="">
+  <b>How to Overcome Curse-of-Dimensionality for OOD Detection?</b><br>
+  Soumya Suvra Ghosal*, <u>Yiyou Sun*</u>, Yixuan Li <br>
+   <i>AAAI 2024</i> 
+</div>
+
+-----
+
+
+## Collaborative Publications
+
+-----
+
+<div class="media-body">
+      <b>How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?</b><br>
+      Yifei Ming, <u>Yiyou Sun</u>, Ousmane Dia, Yixuan (Sharon) Li<br>
+       <i>ICLR 2023</i><br>
+       [<a href="https://arxiv.org/abs/2203.04450">arXiv</a>]
+       [<a href="https://openreview.net/forum?id=aEFaE0W5pAd">OpenReview</a>]
+</div>
+
+-----
+
+<div class="media-body">
+          <b>Delving into OOD Detection with Vision-Language Representations</b><br>
+          Yifei Ming, Ziyang Cai, Jiuxiang Gu, <u>Yiyou Sun</u>, Wei Li, Yixuan (Sharon) Li<br>
+           <i>NeurIPS 2022</i><br>[<a href="https://openreview.net/pdf?id=KnCS9390Va">Paper</a>]
+    </div>
+
+
+-----
+
+<div class="" style="">
+  <b>Dream the Impossible: Outlier Imagination with Diffusion Models</b><br>
+  Xuefeng Du, <u>Yiyou Sun</u>, Xiaojin Zhu, Yixuan Li <br>
+   <i>NeurIPS 2023</i><br>
+   [<a href="https://arxiv.org/pdf/2309.13415">Paper</a>]
+   [<a href="https://github.com/deeplearning-wisc/dream-ood">Code</a>]
+</div>
+
+
+-----
+
+
+<div class="media-body">
+          <b>OpenOOD: Benchmarking Generalized
+Out-of-Distribution Detection</b><br>
+          Jingkang Yang, Pengyun Wang, Dejian Zou, Zitang Zhou, Kunyuan Ding, Wenxuan Peng, Haoqi Wang, Guangyao Chen, Bo Li, <u>Yiyou Sun</u>, Xuefeng Du, Kaiyang Zhou, Wayne Zhang, Dan Hendrycks, Yixuan (Sharon) Li, Ziwei Liu<br>
+           <i>NeurIPS 2022 (Datasets and Benchmarks Track)</i><br>
+           [<a href="https://openreview.net/pdf?id=gT6j4_tskUt">Paper</a>]
+           [<a href="https://github.com/Jingkang50/OpenOOD">Code</a>]
+    </div>
+
+
+------
+
 
 ## Other Research Projects
 

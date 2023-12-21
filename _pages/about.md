@@ -17,10 +17,10 @@ I am currently a full-time researcher at NEC Laboratories America Inc., working 
 See more in my [CV](https://sunyiyou.github.io/files/CV.pdf) and publications [here](https://sunyiyou.github.io/publications/)!
 
 ## News
-+ [12/8/2023] One (co)first-authored paper accepted to AAAI 2024.
-+ [9/21/2023] Two papers accepted to NeurIPS 2023. One is spotlighted. See you in New Orleans!
++ [12/8/2023] One (co)first-authored paper is accepted to AAAI 2024.
++ [9/21/2023] Two papers areaccepted to NeurIPS 2023. One is spotlighted. 
 + [8/14/2023] Joined NEC Laboratories America Inc. as a full-time researcher.
 + [7/19/2023] Defended my thesis “*Detecting and Learning Out-of-Distribution Data in the Open world: Algorithm and Theory*”. Finally Dr. Sun!
-+ [4/24/2023] One first-authored conference paper “*[When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis](https://arxiv.org/abs/2308.05017)*” is accepted by ICML 2023.
-+ [2/27/2023] One first-authored conference paper “*[Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment](https://arxiv.org/abs/2303.13662)*” is accepted by CVPR 2023.
-+ [1/4/2023] One first-authored journal paper "*[OpenCon: Open-world Contrastive Learning](https://arxiv.org/abs/2208.02764)*" is accepted to TMLR. 
++ [4/24/2023] One first-authored conference paper is accepted to ICML 2023.
++ [2/27/2023] One first-authored conference paper is accepted to CVPR 2023.
++ [1/4/2023] One first-authored journal paper is accepted to TMLR. 

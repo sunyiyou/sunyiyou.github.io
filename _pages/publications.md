@@ -9,6 +9,53 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
 
 ## Publications
 
+<style>
+    @keyframes rgb {
+        0%   { color: red; }
+        33%  { color: green; }
+        67%  { color: blue; }
+        100% { color: red; }
+    }
+
+    .flashing-rgb {
+        animation: rgb 2s infinite;
+    }
+</style>
+
+-----
+
+
+<div class="" style="">
+  <span class="flashing-rgb">(NEW!) </span><b>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton</b><br>
+  <u>Yiyou Sun</u>, Junjie Hu, Wei Cheng, Haifeng Chen <br>
+  <i>ICML 2024</i>  <br>
+  [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>]
+</div>
+
+
+-----
+
+
+<div class="" style="">
+  <span class="flashing-rgb">(NEW!) </span><b>When and How Does In-Distribution Label Help Out-of-Distribution Detection?</b><br>
+  Xuefeng Du, <u>Yiyou Sun</u>, Yixuan Li <br>
+  <i>ICML 2024</i>  <br>
+  <!-- [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>] -->
+</div>
+
+
+-----
+
+
+<div class="" style="">
+  <b>Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models</b><br>
+Chen Ling, Xujiang Zhao, Xuchao Zhang, Wei Cheng, Yanchi Liu, <u>Yiyou Sun</u>, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, Guangji Bai, Liang Zhao, Haifeng Chen
+  <br>
+  <i>NAACL 2024</i> <br>
+  [<a href="https://arxiv.org/abs/2402.10189">Arxiv</a>]
+</div>
+
+
 -----
 
 

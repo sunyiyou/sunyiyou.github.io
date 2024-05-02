@@ -14,11 +14,19 @@ I am currently a full-time researcher at NEC Laboratories America Inc., working 
 + **Open-world Representation Learning (ORL)**: Moving beyond OOD detection, the ORL problem further requires models to learn the hidden classes within OOD samples, in addition to the known classes.
 + **Interpretability**: We aim to build an interpretable machine learning system, particularly in visualizing and quantitating the model’s inference mechanism or even constructing one inherently sparse, simulatable, modular, and thus, interpretable.
 
+My current research revolves around the trustworthy Large Language Models (LLMs) on the following topics: 
+
++ Retrieval-Augmented Generation (RAG), Multi-modality, Privacy, Uncertainty Estimation
+
 See more in my [CV](https://sunyiyou.github.io/files/CV.pdf) and publications [here](https://sunyiyou.github.io/publications/)!
 
+(Latest update: 5/2/2024)
+
 ## News
++ [5/1/2024] Two papers are acccepted to ICML 2024.
++ [3/13/2024] One paper is accepted to NAACL 2024.
 + [12/8/2023] One (co)first-authored paper is accepted to AAAI 2024.
-+ [9/21/2023] Two papers areaccepted to NeurIPS 2023. One is spotlighted. 
++ [9/21/2023] Two papers are accepted to NeurIPS 2023. One is spotlighted. 
 + [8/14/2023] Joined NEC Laboratories America Inc. as a full-time researcher.
 + [7/19/2023] Defended my thesis “*Detecting and Learning Out-of-Distribution Data in the Open world: Algorithm and Theory*”. Finally Dr. Sun!
 + [4/24/2023] One first-authored conference paper is accepted to ICML 2023.

@@ -16,11 +16,29 @@ I am currently a full-time researcher at NEC Laboratories America Inc., working 
 
 My current research revolves around the trustworthy Large Language Models (LLMs) on the following topics: 
 
-+ Retrieval-Augmented Generation (RAG), Multi-modality, Privacy, Uncertainty Estimation
++ Retrieval-Augmented Generation (RAG), Multi-modality, Uncertainty Estimation
 
 See more in my [CV](https://sunyiyou.github.io/files/CV.pdf) and publications [here](https://sunyiyou.github.io/publications/)!
 
-(Latest update: 5/2/2024)
+
+<style>
+    @keyframes rgb {
+        0%   { color: red; }
+        33%  { color: green; }
+        67%  { color: blue; }
+        100% { color: red; }
+    }
+
+    .flashing-rgb {
+        animation: rgb 2s infinite;
+    }
+</style>
+
+<span class="flashing-rgb">(UPDATE:) </span> I will join UC Berkeley as a Postdoctoral Researcher in Prof. [Dawn Song](https://dawnsong.io/)'s group in the Fall 2024 semester.
+
+
+
+(Latest update: 7/29/2024)
 
 ## News
 + [5/1/2024] Two papers are acccepted to ICML 2024.

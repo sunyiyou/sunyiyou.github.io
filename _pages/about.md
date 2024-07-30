@@ -30,7 +30,7 @@ See more in my [CV](https://sunyiyou.github.io/files/CV.pdf) and publications [h
     }
 
     .flashing-rgb {
-        animation: rgb 2s infinite;
+        animation: rgb 8s infinite;
     }
 </style>
 

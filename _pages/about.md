@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a full-time researcher at NEC Laboratories America Inc., working with Dr. [Haifeng Chen](https://www.nec-labs.com/research/data-science-system-security/people/haifeng-chen/). Before that, I received my Ph.D. in Computer Sciences from the University of Wisconsin-Madison, advised by Prof. [Sharon (Yixuan) Li](https://pages.cs.wisc.edu/~sharonli/). My research aims to pave the way to a reliable Open-world Machine Learning system, which revolves around three aspects:
-
-+ **Out-of-distribution (OOD) Detection**: In the open world, the AI system will encounter new contexts and data that were not taught to the algorithms during training. A reliable machine learning model should not only accurately classify in-distribution (ID) samples but also possess the capability to identify samples that lie outside the known distribution. 
-+ **Open-world Representation Learning (ORL)**: Moving beyond OOD detection, the ORL problem further requires models to learn the hidden classes within OOD samples, in addition to the known classes.
-+ **Interpretability**: We aim to build an interpretable machine learning system, particularly in visualizing and quantitating the model’s inference mechanism or even constructing one inherently sparse, simulatable, modular, and thus, interpretable.
+I am currently a Postdoctoral Researcher in Prof. [Dawn Song](https://dawnsong.io/)'s group at UC Berkeley.
+ Before that, I earned my Ph.D. in Computer Sciences from the University of Wisconsin-Madison, advised by Prof. [Sharon (Yixuan) Li](https://pages.cs.wisc.edu/~sharonli/). My PhD research aims to pave the way to a reliable Open-world Machine Learning system, covering topics: Out-of-distribution (OOD) Detection, Open-world Representation Learning (ORL), Interpretability. 
 
 My current research revolves around the trustworthy Large Language Models (LLMs) on the following topics: 
 
@@ -34,11 +31,11 @@ See more in my [CV](https://sunyiyou.github.io/files/CV.pdf) and publications [h
     }
 </style>
 
-<span class="flashing-rgb">(UPDATE:) </span> I will join UC Berkeley as a Postdoctoral Researcher in Prof. [Dawn Song](https://dawnsong.io/)'s group in the Fall 2024 semester.
+<!-- <span class="flashing-rgb">(UPDATE:) </span> -->
 
 
 
-(Latest update: 7/29/2024)
+(Latest update: 08/26/2024)
 
 ## News
 + [5/1/2024] Two papers are acccepted to ICML 2024.

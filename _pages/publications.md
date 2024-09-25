@@ -22,11 +22,37 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
     }
 </style>
 
+
 -----
 
 
 <div class="" style="">
-  <span class="flashing-rgb">(NEW!) </span><b>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton</b><br>
+  <b>Revisiting Score Propagation in Graph Out-of-Distribution Detection</b><br>
+  Longfei Ma*, <u>Yiyou Sun*</u>, Kaize Ding, Zemin Liu, Fei Wu <br>
+  (* indicates equal contribution)<br>
+  <i>NeurIPS 2024</i>  <br>
+  <!-- [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>] -->
+</div>
+
+
+-----
+
+
+<div class="" style="">
+  <b>Improving Logits-based Detector without Logits from Black-box LLMs</b><br>
+  Cong Zeng, Shengkun Tang, Xianjun Yang, Yuanzhou Chen, <u>Yiyou Sun</u>, zhiqiang xu, Yao Li, Haifeng Chen, Wei Cheng, Dongkuan Xu <br>
+  <i>NeurIPS 2024</i>  <br>
+  [<a href="https://arxiv.org/pdf/2406.05232">Arxiv</a>]
+</div>
+
+
+
+-----
+
+<!-- <span class="flashing-rgb">(NEW!) </span> -->
+
+<div class="" style="">
+  <b>Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton</b><br>
   <u>Yiyou Sun</u>, Junjie Hu, Wei Cheng, Haifeng Chen <br>
   <i>ICML 2024</i>  <br>
   [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>]
@@ -37,7 +63,7 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
 
 
 <div class="" style="">
-  <span class="flashing-rgb">(NEW!) </span><b>When and How Does In-Distribution Label Help Out-of-Distribution Detection?</b><br>
+  <b>When and How Does In-Distribution Label Help Out-of-Distribution Detection?</b><br>
   Xuefeng Du, <u>Yiyou Sun</u>, Yixuan Li <br>
   <i>ICML 2024</i>  <br>
   <!-- [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>] -->

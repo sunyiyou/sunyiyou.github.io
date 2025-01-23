@@ -22,6 +22,29 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
     }
 </style>
 
+-----
+
+
+<div class="" style="">
+  <b>Chain-of-region: Visual Language Models Need Details for Diagram Analysis</b><br>
+  Xue Li*, <u>Yiyou Sun*</u>, Wei Cheng, Yinglun Zhu, Haifeng Chen <br>
+  (* indicates equal contribution)<br>
+  <i>ICLR 2025</i>  <br>
+  [<a href="https://openreview.net/forum?id=M6fYrICcQs">OpenReview</a>]
+  <!-- [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>] -->
+</div>
+
+-----
+
+
+<div class="" style="">
+  <b>Scattered Forest Search: Smarter Code Space Exploration with LLMs</b><br>
+  Jonathan Light, Yue Wu, <u>Yiyou Sun</u>, Wenchao Yu, Yanchi Liu, Xujiang Zhao, Ziniu Hu, Haifeng Chen, Wei Cheng <br>
+  <i>ICLR 2025</i>  <br>
+  [<a href="https://openreview.net/pdf?id=MCHuGOkExF">OpenReview</a>]
+  <!-- [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>] -->
+</div>
+
 
 -----
 
@@ -31,6 +54,7 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
   Longfei Ma*, <u>Yiyou Sun*</u>, Kaize Ding, Zemin Liu, Fei Wu <br>
   (* indicates equal contribution)<br>
   <i>NeurIPS 2024</i>  <br>
+  [<a href="https://openreview.net/pdf?id=jb5qN3212b">OpenReview</a>]
   <!-- [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>] -->
 </div>
 

@@ -13,7 +13,7 @@ I am currently a Postdoctoral Researcher in Prof. [Dawn Song](https://dawnsong.i
 
 My current research revolves around the trustworthy Large Language Models (LLMs) on the following topics: 
 
-+ Hallucination, Mechanistic Interpretability, Safety
++ Hallucination, Mechanistic Interpretability, LLM Agent
 
 <!-- See more in my [CV](https://sunyiyou.github.io/files/CV.pdf) and publications [here](https://sunyiyou.github.io/publications/)! -->
 
@@ -35,9 +35,10 @@ My current research revolves around the trustworthy Large Language Models (LLMs)
 
 
 
-(Latest update: 09/26/2024)
+(Latest update: 01/22/2025)
 
 ## News
++ [1/22/2025] Two papers are acccepted to ICLR 2025.
 + [9/25/2024] Two papers are acccepted to NeurIPS 2024.
 + [5/1/2024] Two papers are acccepted to ICML 2024.
 + [3/13/2024] One paper is accepted to NAACL 2024.

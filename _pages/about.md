@@ -35,9 +35,10 @@ My current research revolves around the trustworthy Large Language Models (LLMs)
 
 
 
-(Latest update: 01/22/2025)
+(Latest update: 02/27/2025)
 
 ## News
++ [2/26/2025] One paper is acccepted to CVPR 2025.
 + [1/22/2025] Two papers are acccepted to ICLR 2025.
 + [9/25/2024] Two papers are acccepted to NeurIPS 2024.
 + [5/1/2024] Two papers are acccepted to ICML 2024.

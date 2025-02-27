@@ -7,6 +7,8 @@ author_profile: true
 
 You can also find articles on my <a href="https://scholar.google.com/citations?user=IKqlQo4AAAAJ&hl=en">Google Scholar profile</a>.
 
+(The * indicates equal contribution, <sup>&dagger;</sup> indicates the mentoring role)
+
 ## Publications
 
 <style>
@@ -22,13 +24,26 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
     }
 </style>
 
+
+-----
+
+
+<div class="" style="">
+  <b>Where's the liability in the Generative Era? Recovery-based Black-Box Detection of AI-Generated Content</b><br>
+  Haoyue Bai,  <u>Yiyou Sun<sup>&dagger;</sup></u>, Wei Cheng, Haifeng Chen <br>
+  
+  <i>CVPR 2025</i>  <br>
+  [<a href="">To be released</a>]
+</div>
+
+
 -----
 
 
 <div class="" style="">
   <b>Chain-of-region: Visual Language Models Need Details for Diagram Analysis</b><br>
   Xue Li*, <u>Yiyou Sun*</u>, Wei Cheng, Yinglun Zhu, Haifeng Chen <br>
-  (* indicates equal contribution)<br>
+  
   <i>ICLR 2025</i>  <br>
   [<a href="https://openreview.net/forum?id=M6fYrICcQs">OpenReview</a>]
   <!-- [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>] -->
@@ -51,8 +66,8 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
 
 <div class="" style="">
   <b>Revisiting Score Propagation in Graph Out-of-Distribution Detection</b><br>
-  Longfei Ma*, <u>Yiyou Sun*</u>, Kaize Ding, Zemin Liu, Fei Wu <br>
-  (* indicates equal contribution)<br>
+  Longfei Ma*, <u>Yiyou Sun*<sup>&dagger;</sup></u>, Kaize Ding, Zemin Liu, Fei Wu <br>
+  
   <i>NeurIPS 2024</i>  <br>
   [<a href="https://openreview.net/pdf?id=jb5qN3212b">OpenReview</a>]
   <!-- [<a href="https://arxiv.org/pdf/2402.04411">Arxiv</a>] -->
@@ -112,7 +127,7 @@ Chen Ling, Xujiang Zhao, Xuchao Zhang, Wei Cheng, Yanchi Liu, <u>Yiyou Sun</u>, 
 <div class="" style="">
   <b>How to Overcome Curse-of-Dimensionality for OOD Detection?</b><br>
   Soumya Suvra Ghosal*, <u>Yiyou Sun*</u>, Yixuan Li <br>
-  (* indicates equal contribution)<br>
+  
    <i>AAAI 2024</i> 
 </div>
 
@@ -265,7 +280,7 @@ Out-of-Distribution Detection</b><br>
 <div class="media-body">
           <b>Interpretable Basis Decomposition for Visual Explanation</b><br>
            Bolei Zhou*, <u>Yiyou Sun*</u>, David Bau*, Antonio Torralba<br> 
-           (* indicates equal contribution)<br>
+           
            <i>ECCV 2018</i><br>
            [<a href="paper/ibd.pdf">Paper</a>]
            [<a href="https://github.com/CSAILVision/IBD">Code</a>]

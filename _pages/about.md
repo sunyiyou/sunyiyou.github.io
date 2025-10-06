@@ -47,9 +47,9 @@ I am also interested in hallucination, interpretability, and broader aspects of 
 + [9/25/2024] Two papers are acccepted to NeurIPS 2024.
 + [5/1/2024] Two papers are acccepted to ICML 2024.
 + [3/13/2024] One paper is accepted to NAACL 2024.
-+ [12/8/2023] One (co)first-authored paper is accepted to AAAI 2024.
++ [12/8/2023] One paper is accepted to AAAI 2024.
 + [9/21/2023] Two papers are accepted to NeurIPS 2023. One is spotlighted. 
 + [7/19/2023] Defended my thesis “*Detecting and Learning Out-of-Distribution Data in the Open world: Algorithm and Theory*”. Finally Dr. Sun!
 + [4/24/2023] One paper is accepted to ICML 2023.
 + [2/27/2023] One paper is accepted to CVPR 2023.
-+ [1/4/2023] One first-authored journal paper is accepted to TMLR. 
++ [1/4/2023] One journal paper is accepted to TMLR. 

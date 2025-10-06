@@ -248,36 +248,7 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
     </div>
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const filterButtons = document.querySelectorAll('.filter-btn');
-    const publications = document.querySelectorAll('.publication-item');
-    
-    filterButtons.forEach(button => {
-        button.addEventListener('click', function() {
-            // Remove active class from all buttons
-            filterButtons.forEach(btn => btn.classList.remove('active'));
-            // Add active class to clicked button
-            this.classList.add('active');
-            
-            const filterValue = this.getAttribute('data-filter');
-            
-            publications.forEach(pub => {
-                if (filterValue === 'all') {
-                    pub.classList.remove('hidden');
-                } else {
-                    const tags = pub.getAttribute('data-tags').split(',');
-                    if (tags.includes(filterValue)) {
-                        pub.classList.remove('hidden');
-                    } else {
-                        pub.classList.add('hidden');
-                    }
-                }
-            });
-        });
-    });
-});
-</script>
+<script src="{{ site.baseurl }}/assets/js/publications-filter.js"></script>
 
 
 

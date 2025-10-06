@@ -266,7 +266,7 @@ You can also find articles on my <a href="https://scholar.google.com/citations?u
 
 <div class="publication-item" data-tags="first-author,mentor,llm">
   <span class="conference-tag arxiv">arxiv:2507.21017</span><b>MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them</b><br>
-  W Zhang*, <strong class="author-highlight">Yiyou Sun*</strong>, Pohao Huang, Jiayue Pu, Heyue Lin, Dawn Song <br>
+  Weichen Zhang*, <strong class="author-highlight">Yiyou Sun*</strong>, Pohao Huang, Jiayue Pu, Heyue Lin, Dawn Song <br>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2507.21017" class="pub-link paper">Paper</a>
   </div>

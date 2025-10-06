@@ -9,11 +9,15 @@ redirect_from:
 ---
 
 I am currently a Postdoctoral Researcher in Prof. [Dawn Song](https://dawnsong.io/)'s group at UC Berkeley.
- Before that, I earned my Ph.D. in Computer Sciences from the University of Wisconsin-Madison, advised by Prof. [Sharon (Yixuan) Li](https://pages.cs.wisc.edu/~sharonli/). My PhD research aims to pave the way to a reliable Open-world Machine Learning system, covering topics: Out-of-distribution (OOD) Detection, Open-world Representation Learning (ORL), Interpretability. 
+ Before that, I earned my Ph.D. in Computer Sciences from the University of Wisconsin-Madison, advised by Prof. [Sharon (Yixuan) Li](https://pages.cs.wisc.edu/~sharonli/). My PhD research aims to pave the way to a reliable Open-world Machine Learning system, covering topics: Out-of-distribution (OOD) Detection, Open-world Representation Learning (ORL), Interpretability, etc. 
 
-My current research revolves around the trustworthy Large Language Models (LLMs) on the following topics: 
+My current research focuses on Large Language Models (LLMs), particularly in the following areas:
 
-+ Hallucination, Mechanistic Interpretability, LLM Agent
++ **OOD Learnability:** How can we enable LLMs to solve previously unsolvable tasks using RLVR? <span style="font-size: smaller; color: gray;">(Welcome contributions to this new area! [![GitHub stars](https://img.shields.io/github/stars/sunblaze-ucb/awesome-RLVR-boundary)](https://github.com/sunblaze-ucb/awesome-RLVR-boundary))</span>
+
++ **OOD Generalization:** In which aspects can inference-time reasoning be generalized in mathematical problems, programming code, and agentic tasks?
+
+I am also interested in hallucination, interpretability, and broader aspects of trustworthy LLM research.
 
 <!-- See more in my [CV](https://sunyiyou.github.io/files/CV.pdf) and publications [here](https://sunyiyou.github.io/publications/)! -->
 
@@ -33,11 +37,11 @@ My current research revolves around the trustworthy Large Language Models (LLMs)
 
 <!-- <span class="flashing-rgb">(UPDATE:) </span> -->
 
-
-
-(Latest update: 02/27/2025)
+(Latest update: 10/03/2025)
 
 ## News
++ [10/03/2025] Blog "[RL Grokking Recipe](https://rdi.berkeley.edu/blog/rl-grokking-recipe)" is released on RDI website.
++ [09/25/2025] Two papers are acccepted to NeurIPS 2025. See you in SD!
 + [2/26/2025] One paper is acccepted to CVPR 2025.
 + [1/22/2025] Two papers are acccepted to ICLR 2025.
 + [9/25/2024] Two papers are acccepted to NeurIPS 2024.
@@ -46,6 +50,6 @@ My current research revolves around the trustworthy Large Language Models (LLMs)
 + [12/8/2023] One (co)first-authored paper is accepted to AAAI 2024.
 + [9/21/2023] Two papers are accepted to NeurIPS 2023. One is spotlighted. 
 + [7/19/2023] Defended my thesis “*Detecting and Learning Out-of-Distribution Data in the Open world: Algorithm and Theory*”. Finally Dr. Sun!
-+ [4/24/2023] One first-authored conference paper is accepted to ICML 2023.
-+ [2/27/2023] One first-authored conference paper is accepted to CVPR 2023.
++ [4/24/2023] One paper is accepted to ICML 2023.
++ [2/27/2023] One paper is accepted to CVPR 2023.
 + [1/4/2023] One first-authored journal paper is accepted to TMLR. 

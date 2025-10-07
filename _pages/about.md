@@ -13,7 +13,7 @@ I am currently a Postdoctoral Researcher in Prof. [Dawn Song](https://dawnsong.i
 
 My current research focuses on Large Language Models (LLMs), particularly in the following areas:
 
-+ **OOD Learnability:** How can we enable LLMs to solve previously unsolvable tasks using RLVR? <span style="font-size: smaller; color: gray;">(Welcome contributions to this new area! [![GitHub stars](https://img.shields.io/github/stars/sunblaze-ucb/awesome-RLVR-boundary)](https://github.com/sunblaze-ucb/awesome-RLVR-boundary))</span>
++ **OOD Learnability:** How can we enable LLMs to solve previously unsolvable tasks using RLVR? <span style="font-size: smaller; color: gray;">(Welcome contributions to this new area! [![GitHub stars](https://img.shields.io/github/stars/sunblaze-ucb/awesome-RLVR-boundary)](https://github.com/rdi-berkeley/awesome-RLVR-boundary))</span>
 
 + **OOD Generalization:** In which aspects can inference-time reasoning be generalized in mathematical problems, programming code, and agentic tasks?
 

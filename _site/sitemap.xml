@@ -114,6 +114,12 @@
 <loc>http://0.0.0.0:4000/year-archive/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/backup/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/papers_with_abstracts/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/markdown_generator/</loc>
 </url>
 <url>

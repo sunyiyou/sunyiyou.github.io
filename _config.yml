@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiyou Sun"
 title_separator          : "-"
 name                     : &name "Yiyou Sun"
-description              : &description "Researcher"
+description              : &description "Researcher studying the training, evaluation, generalization, and trustworthiness of modern LLM agents."
 url                      : https://sunyiyou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sunyiyou/sunyiyou.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Yiyou Sun"
   avatar           : "photo.jpeg"
   bio              : "`you` is the pronunciation of `铀` <br>  (meaning `Uranium`)"
-  location         : "Berkeley CA 94608"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IKqlQo4AAAAJ&hl=en"
